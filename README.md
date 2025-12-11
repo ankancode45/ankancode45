@@ -69,20 +69,6 @@ console.log(wizard.castSpell("git commit -m 'Expecto Deployum!'"));
 
 ---
 
-## 🔮 Crystal Ball Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B8B8B)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8)
-
-</div>
-
----
-
 ## ⚡ Recent Enchantments (GitHub Activity)
 
 <div align="center">
@@ -94,9 +80,9 @@ console.log(wizard.castSpell("git commit -m 'Expecto Deployum!'"));
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
 </picture>
 
-<br/>
+<br/><br/>
 
-### 📊 Contribution Graph
+### 📊 Magical Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&custom_title=Magical%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)
 
@@ -149,12 +135,6 @@ console.log(wizard.castSpell("git commit -m 'Expecto Deployum!'"));
     </td>
   </tr>
 </table>
-
-<br/>
-
-### 📈 Contribution Metrics
-
-![Metrics](https://metrics.lecoq.io/YOUR_USERNAME?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&config.timezone=Asia%2FKolkata&config.animated=true)
 
 </div>
 
@@ -281,43 +261,6 @@ console.log(wizard.castSpell("git commit -m 'Expecto Deployum!'"));
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](YOUR_MEDIUM)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](YOUR_HASHNODE)
-
-</div>
-
----
-
-## 🎮 GitHub Game
-
-<div align="center">
-
-![Snake Game](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 📊 Detailed Analytics
-
-<div align="center">
-
-### Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<br/>
-
-![Coding Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
-
-</div>
-
----
-
-## 🌌 Contribution Timeline
-
-<div align="center">
-
-![3D Contribution Graph](https://github-profile-3d-contrib.vercel.app/api?username=YOUR_USERNAME&theme=radical&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
 
 </div>
 
