@@ -82,12 +82,6 @@ console.log(wizard.castSpell("git commit -m 'Expecto Deployum!'"));
 
 <br/><br/>
 
-### 📊 Magical Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&custom_title=Magical%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)
-
-<br/>
-
 ### ⚡ Recent Spells Cast
 
 <!--START_SECTION:activity-->
