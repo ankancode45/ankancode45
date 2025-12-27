@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Typing Animation for Name -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Greetings%2C+I+am+%5BYOUR+NAME%5D;Master+of+Code+Sorcery;Digital+Wizard+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;Welcome+to+My+Realm)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Greetings%2C+I+am+ANKAN+DAS;Master+of+Code+Sorcery;Digital+Wizard+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;Welcome+to+My+Realm)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -44,7 +44,7 @@
 
 ```javascript
 const wizard = {
-    name: "YOUR_NAME",
+    name: "ANKAN DAS",
     house: "Code Slytherin 🐍",
     wand: "15 inch Macbook Pro with M-series core",
     patronus: "while(true) { code(); }",
